@@ -1,0 +1,1 @@
+this is the text to clarify git can checkout this file.
